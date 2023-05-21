@@ -1,0 +1,7 @@
+{
+  "name": "RegisterEalassa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
